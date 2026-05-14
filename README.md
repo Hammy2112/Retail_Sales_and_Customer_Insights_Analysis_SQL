@@ -1,11 +1,3 @@
-# Retail_Sales_and_Customer_Insights_Analysis_SQL
-
-This SQL script covers some fantastic ground. The way you utilized window functions like `LAG()` and Common Table Expressions (CTEs) for purchase patterns is exactly the kind of advanced query logic that stands out to hiring teams.
-
-Here is a clean, structured README you can drop directly into your GitHub repository to showcase the business value of this code.
-
----
-
 # Retail Operations & Customer Analytics
 
 ## 📌 Project Overview
