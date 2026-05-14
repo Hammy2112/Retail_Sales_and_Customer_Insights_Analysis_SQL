@@ -3,7 +3,7 @@ CREATE DATABASE Portfolio_Assignment;
 
 USE PortfolIo_Assignment;
 
--- Retrive data from Tables
+-- Retriving data from Tables
 SELECT * FROM
     customers_data;
 SELECT * FROM
@@ -297,7 +297,3 @@ SELECT
 FROM purchase_patterns
 GROUP BY customer_id
 ORDER BY total_purchases DESC;
-
--- Predictive Analytics: Use past data to predict which customers are most likely to churn and recommend strategies to retain them.
- 
-
